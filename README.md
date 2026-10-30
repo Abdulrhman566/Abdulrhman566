@@ -64,7 +64,6 @@ I'm a **Flutter developer** based in Egypt 🇪🇬 who enjoys turning ideas int
 | ⏰ [**Reminder App**](https://github.com/Abdulrhman566/-Flutter-Reminder-App) | Scheduled reminders with local notifications | `Flutter` `Awesome Notifications` |
 | 🔐 [**Firebase Auth**](https://github.com/Abdulrhman566/firebase_auth) | Registration, login, and password recovery | `Flutter` `Firebase Auth` |
 
-> 📌 Tip: pin your best 4–6 repositories on your profile so visitors see them first.
 
 ---
 

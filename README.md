@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1584" height="396" alt="LinkedIn Developer Banner" src="https://github.com/user-attachments/assets/bf43b267-848a-4061-acdd-19e5d6da1b02" />
 
 # Hi there, I'm Abdulrhman Ayman 👋
 

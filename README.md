@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhman-ayman-256906263/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrhman566)
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE) -->
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abduayman8090@gmail.com)
 
 </div>
 
@@ -24,6 +23,7 @@ I'm a **Flutter developer** based in Egypt 🇪🇬 who enjoys turning ideas int
 | 🎯 **Goal** | Become a professional Mobile Application Developer |
 | 💼 **Looking for** | Junior / entry-level Flutter roles |
 | 🌍 **Languages** | Arabic, English |
+| 📫 **Email** | [abduayman8090@gmail.com](mailto:abduayman8090@gmail.com) |
 
 ---
 
@@ -64,18 +64,20 @@ I'm a **Flutter developer** based in Egypt 🇪🇬 who enjoys turning ideas int
 | ⏰ [**Reminder App**](https://github.com/Abdulrhman566/-Flutter-Reminder-App) | Scheduled reminders with local notifications | `Flutter` `Awesome Notifications` |
 | 🔐 [**Firebase Auth**](https://github.com/Abdulrhman566/firebase_auth) | Registration, login, and password recovery | `Flutter` `Firebase Auth` |
 
-
 ---
 
 ## 🤝 Let's Connect
 
-I'm always happy to learn, collaborate, and talk Flutter with other developers. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abdulrhman-ayman-256906263/) or open an issue/discussion on any of my repos.
+I'm always happy to learn, collaborate, and talk Flutter with other developers.
+
+- 📧 Email: [abduayman8090@gmail.com](mailto:abduayman8090@gmail.com)
+- 💼 LinkedIn: [abdulrhman-ayman](https://www.linkedin.com/in/abdulrhman-ayman-256906263/)
+- 🐙 GitHub: open an issue or discussion on any of my repos
 
 <div align="center">
 
 ### 💙 Thanks for visiting!
 
 *Always learning. Always building. Always improving.*
-
 
 </div>
